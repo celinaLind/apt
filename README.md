@@ -15,6 +15,13 @@ For this project, imagine you are an engineer at a social media startup. You are
 - Make your recommendation system adaptive based on the user's most recent activity
 - Ensure minimal latency in the video uploads and playback
 
+## Skills
+- Software Engineering
+- Recommendation Systems
+- Machine Learning
+- Typescript
+- Next.js
+
 ## Resources
 - [TikTok's Recommendation System](https://arxiv.org/pdf/2209.07663)
 - [NextJs Video Optimization](https://nextjs.org/docs/app/building-your-application/optimizing/videos)
